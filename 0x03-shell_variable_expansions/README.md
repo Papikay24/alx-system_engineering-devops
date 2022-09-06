@@ -1,1 +1,1 @@
-This file is to create alias in linux
+This repository is to create an alias in linux 
